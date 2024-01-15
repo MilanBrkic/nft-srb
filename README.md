@@ -1,7 +1,8 @@
 
 # NFT Srb - A Serbian NFT Marketplace
-[Demo](https://www.youtube.com/watch?v=wW_Nj_gqfDo)
-
+### [Full Demo](https://www.youtube.com/watch?v=wW_Nj_gqfDo) <br>
+![Gif demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGIxNHhlM3NlOWR4b3c5eDE4YWlmNzVhem84cXZ0bGVtMm15ajFteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qWmuf3C4gC16is6R7X/giphy.gif)
+<br>
 A NFT marketplace deployed on a Ethereum testnet (Ropsten - RIP in peace legend).
 This app has been created as part of final thesis for my Bachelor's degree. It enables the user to:
 - Login with his Metamask wallet;
@@ -22,11 +23,11 @@ This app has been created as part of final thesis for my Bachelor's degree. It e
 - Solidity;
 - Inherited ERC721URIStorage with some modifications;
 - Used Hardhat for development;
-- Deployed with Remix on Ropsten;
+- Deployed with Remix on Ropsten.
 
 
 ### <b>[Frontend:](https://github.com/MilanBrkic/nft-srb-fe)</b>
-- Ethers.js for calling smart contact methods
+- Ethers.js for calling smart contact methods;
 - NFTs pictures were saved on IPFS with NFT.storage and Google Drive for faster performance;
 - React;
 - Deployed on Github Pages (ik lame).
