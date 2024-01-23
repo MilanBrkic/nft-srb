@@ -31,7 +31,7 @@ This app has been created as part of my final thesis for my bachelor's degree. I
 - React;  
 - Deployed on Github Pages (ik lame).
 
-## App architecure
+## App architecture
 ![App architecture](https://github.com/MilanBrkic/nft-srb/blob/main/NftSrb-arch.png)
 
 Fun fact: this app has been developed and deployed in the middle of a Ropsten migration to Proof of Stake (I had no idea of it at the time). Luckily, everything worked fine.
